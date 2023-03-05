@@ -100,7 +100,8 @@ https://medium.com/the-hacker-outpost/getting-into-game-cheat-development-and-ex
 
 I do alot of work constantly, so donating might help me a bit if not ALOT! alot of my programs are open source despite them being super large where i work on them alone, same as my articles as I do it all to help people out! Please consider :> 
 
-> Venmo  -  https://account.venmo.com/u/Totally_Not_A_Haxxer
+> Venmo    -  https://account.venmo.com/u/Totally_Not_A_Haxxer
+> Cash App -  https://cash.app/$TotallyNotAHaxxer
 
 ### find me on ###
 
