@@ -102,7 +102,10 @@ I do alot of work constantly, so donating might help me a bit if not ALOT! alot 
 
 ### find me on ###
 
-<a href="https://www.instagram.com/Totally_Not_A_Haxxer/">
-  <img align="left" alt="Meh instagram" width="22px" src="git/insta.png" />
-</a>
-<a href="https://discord.gg/5WfgbMdfWp">
+> Github    -> github.com/Totally_Not_A_Haxxer
+> Instagram -> https://www.instagram.com/Totally_Not_A_Haxxer
+> Discord   -> Totally_Not_A_Haxxer#7355
+> Medium    -> https://medium.com/@Totally_Not_A_Haxxer
+> Blogger   -> https://www.blogger.com/blog/post/edit/4638875627556417471/38507471449655067
+> YouTube   -> (Nothing on it YET) = https://www.youtube.com/@Totally_Not_A_Haxxer
+> Patreon   -> https://www.patreon.com/user?u=88879730
