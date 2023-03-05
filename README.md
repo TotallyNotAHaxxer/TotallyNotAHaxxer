@@ -118,6 +118,8 @@ I do alot of work constantly, so donating might help me a bit if not ALOT! alot 
 > YouTube   -> (Nothing on it YET) = https://www.youtube.com/@Totally_Not_A_Haxxer
 > 
 > Patreon   -> https://www.patreon.com/user?u=88879730
+> 
+> CyberSector7 Podcast -> https://open.spotify.com/show/6qdRWuQYISsyiO0n2v3lJU
 
 ## Current Projects ## 
 
