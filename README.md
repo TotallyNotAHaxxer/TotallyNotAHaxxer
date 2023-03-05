@@ -120,3 +120,19 @@ I do alot of work constantly, so donating might help me a bit if not ALOT! alot 
 > YouTube   -> (Nothing on it YET) = https://www.youtube.com/@Totally_Not_A_Haxxer
 > 
 > Patreon   -> https://www.patreon.com/user?u=88879730
+
+## Current Projects ## 
+
+I have many projects currently being worked on many which are private which means I can not share them, however there are a few other ones that I think you might find interest in.
+
+#### SkyLine #### 
+
+An interpreted programming language dedicated to cyber security. This language has the goal of changing the cyber security world for the better by making it easier for offensive and defensive operators to develop defensive and offensive programs very easily due to the backend being written for cyber security and general mathematics!
+
+#### BHGM (Black Hat Go Manual) ####
+
+Not to be confused with Black Hat Go this is a flipbook / handbook which can be seen as a field manual for hackers. Instead of being for linux or for general payloads this is a simple flipbook that holds programs and tips and tricks within the go programming language for hackers! This booklet consist of many programs dedicated to specific fields such as reverse engineering, OSINT, forensics, API usages, recon, scanning, post exploitation and much more!
+
+#### Security With Go and C++ ####
+
+This is my secondary actual book that I have been working on for some time. This book will deeply dive into cyber security, reverse engineering and mathematics with C++ and Go. This book will be also dedicated to working within heavier fields of cyber security and working on a lower level. It will first start off by teaching you elements of go and C++ then bringing you into an introduction of cyber security and finally easing into fields of cyber security. 
