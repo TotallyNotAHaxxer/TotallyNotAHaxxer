@@ -82,7 +82,6 @@ Good day/afternoon/morning fellow hackers! My name is Totally_Not_A_Haxxer, I am
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/crystal/crystal-original-wordmark.svg"/>
 
-### What I write about ###
 
 I mainly stick to you're everyday topics on hacking but also like changing it up. Pretty much I will write about every field I touch such as exploitation, digital forensics, osint, reverse engineering, web recon, web exploitation, service enumeration and even game hacking. Most of my current articles are all about game hacking, check them out below! 
 
