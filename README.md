@@ -3,8 +3,6 @@
 Good day/afternoon/morning fellow hackers! My name is Totally_Not_A_Haxxer, I am a developer and a penetration tester dedicated to finding and building safe solutions to protect against cyber attacks! Currently, my main goal is to push out a programming language known as SkyLine which is purely dedicated to the cyber security world making it easier to develop defensive and offensive cyber security based applications. I have many projects currently going and constantly work to study and push out the best applications on the market! 
 
 <br>
-<br>
-<br>
 
 <p align="left">
       <a href="https://github.com/TotallyNotAHaxxer?tab=followers">
@@ -12,7 +10,6 @@ Good day/afternoon/morning fellow hackers! My name is Totally_Not_A_Haxxer, I am
       <a href="https://github.com/TotallyNotAHaxxer?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TotallyNotAHaxxer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<br>
 
 ### 🧰 Languages and Tools i use
 
