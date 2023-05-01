@@ -100,8 +100,18 @@ https://medium.com/the-hacker-outpost/getting-into-game-cheat-development-and-ex
 
 I do alot of work constantly, so donating might help me a bit if not ALOT! alot of my programs are open source despite them being super large where i work on them alone, same as my articles as I do it all to help people out! Please consider :> 
 
-> Venmo    -  https://account.venmo.com/u/Totally_Not_A_Haxxer
-> Cash App -  https://cash.app/$TotallyNotAHaxxer
+| Payment App / Detail | Address / URL |
+| -------------------- | ------------- |
+| Venmo | https://account.venmo.com/u/Totally_Not_A_Haxxer |
+| Cash App | https://cash.app/$TotallyNotAHaxxer |
+| BitCoin  | bc1q45ctj3cwl8zr2qdw4xceukr58cdnayxuutymt8 |
+| Ethereum | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
+| USDC ETH | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
+| Tether ETH | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
+| XRP      | r4s8FeyYCBHJQGJRGuDuPeM2YLMwRCZP4R |
+
+> Message me for all other crypto options / accounts if you can not donate 
+with the addresses listed here. This will heavily support my projects and keep me going!
 
 ### find me on ###
 
@@ -120,6 +130,11 @@ I do alot of work constantly, so donating might help me a bit if not ALOT! alot 
 > Patreon   -> https://www.patreon.com/user?u=88879730
 > 
 > CyberSector7 Podcast -> https://open.spotify.com/show/6qdRWuQYISsyiO0n2v3lJU
+>
+> ShellPod Podcast -> https://whattheshellpod.com/episode/030-crafting-game-cheats-interview-w-tnh
+> 
+> InfoSec Pat Nerd Chat -> https://www.youtube.com/watch?v=9pSMncKFECs&list=PLxTwjzMO9Zf4eCYmB3Q4uMcm21XQ3sHEZ
+
 
 ## Current Projects ## 
 
