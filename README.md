@@ -1,15 +1,11 @@
-## Hello fellow 127.0.0.1's ##
+## Welcome, nerds.##
 
-Good day/afternoon/morning fellow hackers! My name is Totally_Not_A_Haxxer, I am a developer and a penetration tester dedicated to finding and building safe solutions to protect against cyber attacks! Currently, my main goal is to push out a programming language known as SkyLine which is purely dedicated to the cyber security world making it easier to develop defensive and offensive cyber security based applications. I have many projects currently going and constantly work to study and push out the best applications on the market! 
+Hey there you giant nerd! My name is Ryan, or Totally_Not_A_Haxxer. I am a 16 year old cyber security researcher whos primary focus is on hacking drones and automobiles! At the time of writing, I have a massive need to write and code everything using my own programming language (Radical Processing Core {RPC}, SkyLine) and also have a need to use my own operating systems, programs, etc but I do have experience in other languages. Here is a interesting story you might find cool about me!
+
+https://totallynotahaxxer.blogspot.com/2023/08/from-edgy-highschooler-to-car-hacker.html
 
 <br>
 
-<p align="left">
-      <a href="https://github.com/TotallyNotAHaxxer?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TotallyNotAHaxxer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/TotallyNotAHaxxer?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TotallyNotAHaxxer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ### 🧰 Languages and Tools i use
 
@@ -102,7 +98,6 @@ I do alot of work constantly, so donating might help me a bit if not ALOT! alot 
 
 | Payment App / Detail | Address / URL |
 | -------------------- | ------------- |
-| Venmo | https://account.venmo.com/u/Totally_Not_A_Haxxer |
 | Cash App | https://cash.app/$TotallyNotAHaxxer |
 | BitCoin  | bc1q45ctj3cwl8zr2qdw4xceukr58cdnayxuutymt8 |
 | Ethereum | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
