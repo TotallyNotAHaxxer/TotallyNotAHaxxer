@@ -1,13 +1,13 @@
 ## Welcome, nerds.##
 
-Hey there you giant nerd! My name is Ryan, or Totally_Not_A_Haxxer. I am a 16 year old cyber security researcher whos primary focus is on hacking drones and automobiles! At the time of writing, I have a massive need to write and code everything using my own programming language (Radical Processing Core {RPC}, SkyLine) and also have a need to use my own operating systems, programs, etc but I do have experience in other languages. Here is a interesting story you might find cool about me!
+Hey there you giant nerd! My name is Ryan or Totally_Not_A_Haxxer. I am a 16-year-old cyber security researcher whose primary focus is on hacking drones and automobiles! At the time of writing, I have a massive need to write and code everything using my own programming language (Radical Processing Core {RPC}, SkyLine) and also have a need to use my own operating systems, programs, etc. but I do have experience in other languages. Here is an interesting story you might find cool about me!
 
 https://totallynotahaxxer.blogspot.com/2023/08/from-edgy-highschooler-to-car-hacker.html
 
 <br>
 
 
-### 🧰 Languages and Tools i use
+### 🧰 Languages and Tools I use
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg"/>
 
@@ -139,9 +139,9 @@ I have many projects currently being worked on many which are private which mean
 
 > An interpreted programming language dedicated to cyber security. This language has the goal of changing the cyber security world for the better by making it easier for offensive and defensive operators to develop defensive and offensive programs very easily due to the backend being written for cyber security and general mathematics!
 
-#### BHGM (Black Hat Go Manual) ####
+#### BHGM (Black Hat Go Manual) FINISHED ####
 
-> Not to be confused with Black Hat Go this is a flipbook / handbook which can be seen as a field manual for hackers. Instead of being for linux or for general payloads this is a simple flipbook that holds programs and tips and tricks within the go programming language for hackers! This booklet consist of many programs dedicated to specific fields such as reverse engineering, OSINT, forensics, API usages, recon, scanning, post exploitation and much more!
+View this book here -> https://www.amazon.com/BHGM-Black-Hat-Go-Manual/dp/B0C9SF2973
 
 #### Security With Go and C++ ####
 
