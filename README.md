@@ -1,5 +1,5 @@
-![image](https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/assets/87203697/a15b56d9-c16c-41bf-9ddc-8af67fa11505)<p align="center">
-  <img src="https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/blob/main/Capture.PNG?raw=true" width="350" title="WOOP!">
+<p align="center">
+  <img src="https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/blob/main/Capture.PNG?raw=true" width="900" title="WOOP!">
 </p>
 
 # 0x01 | Whoami 
