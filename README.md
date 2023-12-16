@@ -1,148 +1,22 @@
-## Welcome, nerds.##
+# 0x01 | Whoami 
 
-Hey there you giant nerd! My name is Ryan or Totally_Not_A_Haxxer. I am a 16-year-old cyber security researcher whose primary focus is on hacking drones and automobiles! At the time of writing, I have a massive need to write and code everything using my own programming language (Radical Processing Core {RPC}, SkyLine) and also have a need to use my own operating systems, programs, etc. but I do have experience in other languages. Here is an interesting story you might find cool about me!
+Hello my nerd, my name is Ryan, also known as Totally_Not_A_Haxxer. In short, I am a bored but mentally excited human being who likes proving people wrong. I mainly spend time in cyber security specifically vehicle cyber security, reverse engineering, and of course, the most amazing- cracking people BS software which is fun. 
 
-https://totallynotahaxxer.blogspot.com/2023/08/from-edgy-highschooler-to-car-hacker.html
+# 0x02 | About My Experience
 
-<br>
+I am mainly cyber security now, but I spend time in development where I have written a fully functional programming language called SkyLine, written in many different languages anything from C/C++ all the way up the chain to Go and down the chain to Fortran. I specialize in automotive/IoT cybersecurity and mainly enjoy doing nothing else but hacking things. Some basic things to know are 
 
+- 😏 | Author (BHGM, BHPM, GHFM, etc)
+- 🔥 | 17 with a lot of fun ideas
+- 🎮 | Game cheat developer
+- 🕹️ | Too busy applying my skills to real-world scenarios
+- 📖 | Writer (medium, hackernoon, bored panda, blogger, guided hacking, etc)
+- 🎤 | Speaker, Presenter, Educator, Mentor
+- 🏴󠁭󠁸󠁭󠁩󠁣󠁿 | I point out frauds, crack their SW and leave
 
-### 🧰 Languages and Tools I use
+# 0x03 | Cyber Security 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg"/>
+My cybersecurity career and experience is not super large, but I have written many articles, many books, many booklets and even done many presentations and study sessions to help other prepare for this amazing world! Here are some highlights :D
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chrome/chrome-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/crystal/crystal-original-wordmark.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/facebook/facebook-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firefox/firefox-plain.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gcc/gcc-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gentoo/gentoo-plain-wordmark.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg"/>
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/google/google-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/lua/lua-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original-wordmark.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/safari/safari-original-wordmark.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-plain.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg"/>
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/crystal/crystal-original-wordmark.svg"/>
-
-<br>
-<br>
-<br>
-<br>
-
-### What I write about ###
-
-I mainly stick to you're everyday topics on hacking but also like changing it up. Pretty much I will write about every field I touch such as exploitation, digital forensics, osint, reverse engineering, web recon, web exploitation, service enumeration and even game hacking. Most of my current articles are all about game hacking, check them out below! 
-
-https://medium.com/the-hacker-outpost/getting-into-game-cheat-development-and-exploitation-c6dbdac5e8a3
-
-
-### Github Stats ###
-
-![RE43P3Rs GitHub stats](https://github-readme-stats.vercel.app/api/?username=TotallyNotAHaxxer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-### Support me! ### 
-
-I do alot of work constantly, so donating might help me a bit if not ALOT! alot of my programs are open source despite them being super large where i work on them alone, same as my articles as I do it all to help people out! Please consider :> 
-
-| Payment App / Detail | Address / URL |
-| -------------------- | ------------- |
-| Cash App | https://cash.app/$TotallyNotAHaxxer |
-| BitCoin  | bc1q45ctj3cwl8zr2qdw4xceukr58cdnayxuutymt8 |
-| Ethereum | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
-| USDC ETH | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
-| Tether ETH | 0x466BA936E2bdbEab74c8cd048CC43279fE712E54 |
-| XRP      | r4s8FeyYCBHJQGJRGuDuPeM2YLMwRCZP4R |
-
-> Message me for all other crypto options / accounts if you can not donate 
-with the addresses listed here. This will heavily support my projects and keep me going!
-
-### find me on ###
-
-> Github    -> github.com/Totally_Not_A_Haxxer
-> 
-> Instagram -> https://www.instagram.com/Totally_Not_A_Haxxer
-> 
-> Discord   -> Totally_Not_A_Haxxer#7355
-> 
-> Medium    -> https://medium.com/@Totally_Not_A_Haxxer
-> 
-> Blogger   -> https://www.blogger.com/blog/post/edit/4638875627556417471/38507471449655067
-> 
-> YouTube   -> (Nothing on it YET) = https://www.youtube.com/@Totally_Not_A_Haxxer
-> 
-> Patreon   -> https://www.patreon.com/user?u=88879730
-> 
-> CyberSector7 Podcast -> https://open.spotify.com/show/6qdRWuQYISsyiO0n2v3lJU
->
-> ShellPod Podcast -> https://whattheshellpod.com/episode/030-crafting-game-cheats-interview-w-tnh
-> 
-> InfoSec Pat Nerd Chat -> https://www.youtube.com/watch?v=9pSMncKFECs&list=PLxTwjzMO9Zf4eCYmB3Q4uMcm21XQ3sHEZ
-
-
-## Current Projects ## 
-
-I have many projects currently being worked on many which are private which means I can not share them, however there are a few other ones that I think you might find interest in.
-
-#### SkyLine #### 
-
-> An interpreted programming language dedicated to cyber security. This language has the goal of changing the cyber security world for the better by making it easier for offensive and defensive operators to develop defensive and offensive programs very easily due to the backend being written for cyber security and general mathematics!
-
-#### BHGM (Black Hat Go Manual) FINISHED ####
-
-View this book here -> https://www.amazon.com/BHGM-Black-Hat-Go-Manual/dp/B0C9SF2973
-
-#### Security With Go and C++ ####
-
-> This is my secondary actual book that I have been working on for some time. This book will deeply dive into cyber security, reverse engineering and mathematics with C++ and Go. This book will be also dedicated to working within heavier fields of cyber security and working on a lower level. It will first start off by teaching you elements of go and C++ then bringing you into an introduction of cyber security and finally easing into fields of cyber security. 
+* StrCat    | [Dynamic analysis via check bypass](https://medium.com/@Totally_Not_A_Haxxer/analyzing-game-cheats-with-strcat-fe4f9ec18d83)
+* RedRabbit | 
