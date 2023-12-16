@@ -18,5 +18,17 @@ I am mainly cyber security now, but I spend time in development where I have wri
 
 My cybersecurity career and experience is not super large, but I have written many articles, many books, many booklets and even done many presentations and study sessions to help other prepare for this amazing world! Here are some highlights :D
 
-* StrCat    | [Dynamic analysis via check bypass](https://medium.com/@Totally_Not_A_Haxxer/analyzing-game-cheats-with-strcat-fe4f9ec18d83)
-* RedRabbit | 
+* StrCat____________[Dynamic analysis via check bypass](https://medium.com/@Totally_Not_A_Haxxer/analyzing-game-cheats-with-strcat-fe4f9ec18d83)
+* BHGM  ____________[Black Hat Go Manual(https://www.amazon.com/BHGM-Black-Hat-Go-Manual/dp/B0C9SF2973)
+* BHPM  ____________[Black Hat Python Manual](https://www.amazon.com/BHPM-Black-Hat-Python-Manual/dp/B0CKD8S8SV/ref=sr_1_2?qid=1702768270&refinements=p_27%3ARyan+Marston&s=books&sr=1-2&text=Ryan+Marston)
+* [Automotive Security Presentation](https://www.youtube.com/watch?v=GMIKgCbFAaY)
+
+# 0x04 | Spot me...
+
+I have been many places- all around actually. So you can find me quite easily (which sucks sometimes LMAO) here are some recent ones 
+
+> Car Hacking With SciTechSuisse [Here](https://www.youtube.com/watch?v=McGmkU5vfbo)
+
+> Red Team Vs Blue Team Automotive Cybersecurity With Raashid Ansari [Here](https://www.youtube.com/watch?v=V8BFo6WjzXI)
+
+> Infosec Pat & Me Talking About Car Hacking [Here](https://www.youtube.com/watch?v=SoS--Xqoo7I) 
