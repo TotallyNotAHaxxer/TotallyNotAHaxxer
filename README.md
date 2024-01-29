@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TotallyNotAHaxxer/TotallyNotAHaxxer/main/TheWorldIsYours.png" width="900" title="WOOP!">
 </p>
-https://raw.githubusercontent.com/TotallyNotAHaxxer/TotallyNotAHaxxer/main/TheWorldIsYours.png
-
 # 0x01 | Whoami 
 
 Hello my nerd, my name is Ryan, also known as Totally_Not_A_Haxxer. In short, I am a bored but mentally excited human being who likes proving people wrong. I mainly spend time in cyber security specifically vehicle cyber security, reverse engineering, and of course, the most amazing- cracking people BS software which is fun. 
