@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/blob/main/TheWorldIsYours.PNG?raw=true](https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/blob/main/TheWorldIsYours.png?raw=true)" width="900" title="WOOP!">
+  <img src="https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/blob/main/TheWorldIsYours.PNG?raw=true" width="900" title="WOOP!">
 </p>
 
 # 0x01 | Whoami 
