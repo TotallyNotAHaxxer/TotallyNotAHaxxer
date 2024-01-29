@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/TotallyNotAHaxxer/TotallyNotAHaxxer/blob/main/TheWorldIsYours.PNG?raw=true" width="900" title="WOOP!">
+  <img src="https://raw.githubusercontent.com/TotallyNotAHaxxer/TotallyNotAHaxxer/main/TheWorldIsYours.png" width="900" title="WOOP!">
 </p>
+https://raw.githubusercontent.com/TotallyNotAHaxxer/TotallyNotAHaxxer/main/TheWorldIsYours.png
 
 # 0x01 | Whoami 
 
