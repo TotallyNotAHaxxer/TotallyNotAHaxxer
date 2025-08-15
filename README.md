@@ -11,7 +11,6 @@ Hello my nerd, my name is Ryan, also known as Totally_Not_A_Haxxer. In short, I 
 I am mainly cyber security now, but I spend time in development where I have written a fully functional programming language called SkyLine, written in many different languages anything from C/C++ all the way up the chain to Go and down the chain to Fortran. I specialize in automotive/IoT cybersecurity and mainly enjoy doing nothing else but hacking things. Some basic things to know are 
 
 - 😏 | Author (BHGM, BHPM, GHFM, etc)
-- 🔥 | 17 with a lot of fun ideas
 - 🎮 | Game cheat developer
 - 🕹️ | Too busy applying my skills to real-world scenarios
 - 📖 | Writer (medium, hackernoon, bored panda, blogger, guided hacking, etc)
